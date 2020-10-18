@@ -2,7 +2,7 @@
 
 # Deaddict - A tool to fight Addiction &amp; Substance Inebriety using Artificial Intelligence.
 
-Dataset - We scrap the data from the web for images of people who are high & sober.
+Dataset - We scrap the data from the web for images of people who are drunk & sober.
 
 # Prerequisites
 
