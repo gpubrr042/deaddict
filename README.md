@@ -30,3 +30,20 @@ What each file does:
 7. A screen with slogan (# Fighting Addiction & Substance Inebriety using Artificial Intelligence) will appear and a Upload option will be given.
 8. Upload a ```image``` file from the local computer and click on predict the result will appear on the screen in few moments. 
 
+# Deaadict 
+
+# Home
+![Home](https://user-images.githubusercontent.com/24211231/96367081-5332ab80-1169-11eb-973b-fb26d41e63a1.png)
+# Drunk
+![Drunk](https://user-images.githubusercontent.com/24211231/96367091-5fb70400-1169-11eb-8c41-700b04c9ab3e.png)
+# Sober
+![Sober](https://user-images.githubusercontent.com/24211231/96367098-72313d80-1169-11eb-9e54-cd169e891327.png)
+
+# Azure Custom Vision API
+
+# Performance
+![Performance](https://user-images.githubusercontent.com/24211231/96367102-79584b80-1169-11eb-9c05-8eeae7544459.png)
+# Training Data
+![Training-Data](https://user-images.githubusercontent.com/24211231/96367111-7e1cff80-1169-11eb-8d2b-6de1c970afe8.png)
+# Prediction
+![Prediction](https://user-images.githubusercontent.com/24211231/96367124-883efe00-1169-11eb-9250-553a68ebaf05.png)
