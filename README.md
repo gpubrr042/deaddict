@@ -30,7 +30,7 @@ What each file does:
 7. A screen with slogan (# Fighting Addiction & Substance Inebriety using Artificial Intelligence) will appear and a Upload option will be given.
 8. Upload a ```image``` file from the local computer and click on predict the result will appear on the screen in few moments. 
 
-# Deaadict 
+# Deaddict 
 
 # Home
 ![Home](https://user-images.githubusercontent.com/24211231/96367081-5332ab80-1169-11eb-973b-fb26d41e63a1.png)
