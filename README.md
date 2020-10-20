@@ -39,8 +39,6 @@ What each file does:
 # Sober
 ![Sober](https://user-images.githubusercontent.com/24211231/96367098-72313d80-1169-11eb-9e54-cd169e891327.png)
 
-# Azure Custom Vision Link - https://www.customvision.ai/projects/b44187a6-7620-43d0-8266-ece7d1988f68#/performance
-
 # Performance
 ![Performance](https://user-images.githubusercontent.com/24211231/96367102-79584b80-1169-11eb-9c05-8eeae7544459.png)
 # Training Data
